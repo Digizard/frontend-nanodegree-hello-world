@@ -7,4 +7,4 @@ This is a simple warm-up project for the Front-End Web Developer Nanodegree prog
 How to Use?
 -----------
 
-View the index.html in your browser.
+Open up the index.html in your browser.
